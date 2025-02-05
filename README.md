@@ -1,7 +1,5 @@
 # RoadMap
 
-TODO: MVP is done via waterfall, everything else is done via scrum
-
 ## January
 
 Objective: Create MVP
